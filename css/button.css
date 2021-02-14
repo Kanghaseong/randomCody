@@ -1,7 +1,8 @@
 div#main{
     text-align:center;  font-size:24px; color:white;    font-family:sans-serif;
     position:fixed; top:25%;    left:40%;
-    .btn{
+}
+.btn{
     border-width:thick;   border-radius:25px;  border-color:white; border-style:solid;
     background-color:rgba(255,255,255,0);
     width:200px; height:200px;  top:50%;    left:50%;
@@ -9,7 +10,7 @@ div#main{
     font-size: 40px;    color:white;   font-weight:bold;   text-align:center;
     cursor: pointer;
     display: inline-block;  position: fixed;
-  }
+}
 .btn:hover {
     background: rgba(255, 255, 255, 0);
     border-color:rgb(47,79,79);
